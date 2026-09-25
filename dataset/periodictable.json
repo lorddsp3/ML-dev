@@ -1,0 +1,923 @@
+[
+  {
+    "atomic_number": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "atomic_weight": 1.008,
+    "electron_config": "1s1",
+    "series": "Nonmetal",
+    "melting_point_K": 14.01,
+    "boiling_point_K": 20.28,
+    "electronegativity": 2.2,
+    "valence": 1,
+    "oxidation_states": ["-1c", "1c"],
+    "atomic_radius": {
+      "calculated_pm": 53,
+      "covalent_pm": 37,
+      "van_der_waals_pm": 120
+    },
+    "discovery_year": 1766,
+    "density_g_per_cm3": 0.0899,
+    "electron_affinity_kJ_per_mol": 72.8,
+    "thermal_conductivity_W_per_mK": 0.1805,
+    "abundance_percent": {
+      "universe": 75.0,
+      "crust": 0.15,
+      "ocean": 11.0,
+      "human_body": 10.0
+    },
+    "heat": {
+      "specific_J_per_kgK": 14300.0,
+      "fusion_kJ_per_mol": 0.558,
+      "vaporization_kJ_per_mol": 0.452
+    },
+    "ionization_energy_kJ_per_mol": 1312.0,
+    "isotopes_count": 7
+  },
+  {
+    "atomic_number": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "atomic_weight": 4.002602,
+    "electron_config": "1s2",
+    "series": "Noble",
+    "melting_point_K": null,
+    "boiling_point_K": 4.22,
+    "electronegativity": null,
+    "valence": 0,
+    "oxidation_states": null,
+    "atomic_radius": {
+      "calculated_pm": 31,
+      "covalent_pm": 32,
+      "van_der_waals_pm": 140
+    },
+    "discovery_year": 1895,
+    "density_g_per_cm3": 0.1785,
+    "electron_affinity_kJ_per_mol": 0.0,
+    "thermal_conductivity_W_per_mK": 0.1513,
+    "abundance_percent": {
+      "universe": 23.0,
+      "crust": 5.5e-7,
+      "ocean": 7.2e-10,
+      "human_body": null
+    },
+    "heat": {
+      "specific_J_per_kgK": 5193.1,
+      "fusion_kJ_per_mol": 0.02,
+      "vaporization_kJ_per_mol": 0.083
+    },
+    "ionization_energy_kJ_per_mol": 2372.3,
+    "isotopes_count": 9
+  },
+  {
+    "atomic_number": 3,
+    "symbol": "Li",
+    "name": "Lithium",
+    "atomic_weight": 6.94,
+    "electron_config": "[He] 2s1",
+    "series": "Alkali",
+    "melting_point_K": 453.69,
+    "boiling_point_K": 1615.0,
+    "electronegativity": 0.98,
+    "valence": 1,
+    "oxidation_states": ["1c"],
+    "atomic_radius": {
+      "calculated_pm": 167,
+      "covalent_pm": 134,
+      "van_der_waals_pm": 182
+    },
+    "discovery_year": 1817,
+    "density_g_per_cm3": 535.0,
+    "electron_affinity_kJ_per_mol": 59.6,
+    "thermal_conductivity_W_per_mK": 85.0,
+    "abundance_percent": {
+      "universe": 6e-7,
+      "crust": 0.0017,
+      "ocean": 1.8e-5,
+      "human_body": 3e-6
+    },
+    "heat": {
+      "specific_J_per_kgK": 3570.0,
+      "fusion_kJ_per_mol": 3.0,
+      "vaporization_kJ_per_mol": 147.0
+    },
+    "ionization_energy_kJ_per_mol": 520.2,
+    "isotopes_count": 10
+  },
+  {
+    "atomic_number": 4,
+    "symbol": "Be",
+    "name": "Beryllium",
+    "atomic_weight": 9.0121831,
+    "electron_config": "[He] 2s2",
+    "series": "Alkaline",
+    "melting_point_K": 1560.0,
+    "boiling_point_K": 2743.0,
+    "electronegativity": 1.57,
+    "valence": 2,
+    "oxidation_states": ["1", "2c"],
+    "atomic_radius": {
+      "calculated_pm": 112,
+      "covalent_pm": 90,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": 1797,
+    "density_g_per_cm3": 1848.0,
+    "electron_affinity_kJ_per_mol": 0.0,
+    "thermal_conductivity_W_per_mK": 190.0,
+    "abundance_percent": {
+      "universe": 1e-7,
+      "crust": 0.00019,
+      "ocean": 6e-11,
+      "human_body": 4e-8
+    },
+    "heat": {
+      "specific_J_per_kgK": 1820.0,
+      "fusion_kJ_per_mol": 7.95,
+      "vaporization_kJ_per_mol": 297.0
+    },
+    "ionization_energy_kJ_per_mol": 899.5,
+    "isotopes_count": 12
+  },
+  {
+    "atomic_number": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "atomic_weight": 10.81,
+    "electron_config": "[He] 2s2 2p1",
+    "series": "Metalloid",
+    "melting_point_K": 2348.0,
+    "boiling_point_K": 4273.0,
+    "electronegativity": 2.04,
+    "valence": 3,
+    "oxidation_states": ["1", "2", "3c"],
+    "atomic_radius": {
+      "calculated_pm": 87,
+      "covalent_pm": 82,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": 1808,
+    "density_g_per_cm3": 2460.0,
+    "electron_affinity_kJ_per_mol": 26.7,
+    "thermal_conductivity_W_per_mK": 27.0,
+    "abundance_percent": {
+      "universe": 1e-7,
+      "crust": 0.00086,
+      "ocean": 0.00044,
+      "human_body": 7e-5
+    },
+    "heat": {
+      "specific_J_per_kgK": 1030.0,
+      "fusion_kJ_per_mol": 50.0,
+      "vaporization_kJ_per_mol": 507.0
+    },
+    "ionization_energy_kJ_per_mol": 800.6,
+    "isotopes_count": 14
+  },
+  {
+    "atomic_number": 6,
+    "symbol": "C",
+    "name": "Carbon",
+    "atomic_weight": 12.011,
+    "electron_config": "[He] 2s2 2p2",
+    "series": "Nonmetal",
+    "melting_point_K": 3915.0,
+    "boiling_point_K": 3915.0,
+    "electronegativity": 2.55,
+    "valence": 4,
+    "oxidation_states": ["-4c", "-3", "-2", "-1", "1", "2", "3", "4c"],
+    "atomic_radius": {
+      "calculated_pm": 67,
+      "covalent_pm": 77,
+      "van_der_waals_pm": 170
+    },
+    "discovery_year": -3749,
+    "density_g_per_cm3": 2260.0,
+    "electron_affinity_kJ_per_mol": 153.9,
+    "thermal_conductivity_W_per_mK": 140.0,
+    "abundance_percent": {
+      "universe": 0.5,
+      "crust": 0.18,
+      "ocean": 0.0028,
+      "human_body": 23.0
+    },
+    "heat": {
+      "specific_J_per_kgK": 710.0,
+      "fusion_kJ_per_mol": 105.0,
+      "vaporization_kJ_per_mol": 715.0
+    },
+    "ionization_energy_kJ_per_mol": 1086.5,
+    "isotopes_count": 15
+  },
+  {
+    "atomic_number": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "atomic_weight": 14.007,
+    "electron_config": "[He] 2s2 2p3",
+    "series": "Nonmetal",
+    "melting_point_K": 63.05,
+    "boiling_point_K": 77.36,
+    "electronegativity": 3.04,
+    "valence": 5,
+    "oxidation_states": ["-3c", "-2", "-1", "1", "2", "3c", "4", "5c"],
+    "atomic_radius": {
+      "calculated_pm": 56,
+      "covalent_pm": 75,
+      "van_der_waals_pm": 155
+    },
+    "discovery_year": 1772,
+    "density_g_per_cm3": 1.251,
+    "electron_affinity_kJ_per_mol": 7.0,
+    "thermal_conductivity_W_per_mK": 0.02583,
+    "abundance_percent": {
+      "universe": 0.1,
+      "crust": 0.002,
+      "ocean": 5e-5,
+      "human_body": 2.6
+    },
+    "heat": {
+      "specific_J_per_kgK": 1040.0,
+      "fusion_kJ_per_mol": 0.36,
+      "vaporization_kJ_per_mol": 2.79
+    },
+    "ionization_energy_kJ_per_mol": 1402.3,
+    "isotopes_count": 16
+  },
+  {
+    "atomic_number": 8,
+    "symbol": "O",
+    "name": "Oxygen",
+    "atomic_weight": 15.999,
+    "electron_config": "[He] 2s2 2p4",
+    "series": "Nonmetal",
+    "melting_point_K": 54.8,
+    "boiling_point_K": 90.2,
+    "electronegativity": 3.44,
+    "valence": 2,
+    "oxidation_states": ["-2c", "-1", "1", "2"],
+    "atomic_radius": {
+      "calculated_pm": 48,
+      "covalent_pm": 73,
+      "van_der_waals_pm": 152
+    },
+    "discovery_year": 1774,
+    "density_g_per_cm3": 1.429,
+    "electron_affinity_kJ_per_mol": 141.0,
+    "thermal_conductivity_W_per_mK": 0.02658,
+    "abundance_percent": {
+      "universe": 1.0,
+      "crust": 46.0,
+      "ocean": 86.0,
+      "human_body": 61.0
+    },
+    "heat": {
+      "specific_J_per_kgK": 919.0,
+      "fusion_kJ_per_mol": 0.222,
+      "vaporization_kJ_per_mol": 3.41
+    },
+    "ionization_energy_kJ_per_mol": 1313.9,
+    "isotopes_count": 17
+  },
+  {
+    "atomic_number": 9,
+    "symbol": "F",
+    "name": "Fluorine",
+    "atomic_weight": 18.998403162,
+    "electron_config": "[He] 2s2 2p5",
+    "series": "Nonmetal",
+    "melting_point_K": 53.5,
+    "boiling_point_K": 85.03,
+    "electronegativity": 3.98,
+    "valence": 1,
+    "oxidation_states": ["-1c"],
+    "atomic_radius": {
+      "calculated_pm": 42,
+      "covalent_pm": 71,
+      "van_der_waals_pm": 147
+    },
+    "discovery_year": 1886,
+    "density_g_per_cm3": 1.696,
+    "electron_affinity_kJ_per_mol": 328.0,
+    "thermal_conductivity_W_per_mK": 0.0277,
+    "abundance_percent": {
+      "universe": 4e-5,
+      "crust": 0.054,
+      "ocean": 0.00013,
+      "human_body": 0.0037
+    },
+    "heat": {
+      "specific_J_per_kgK": 824.0,
+      "fusion_kJ_per_mol": 0.26,
+      "vaporization_kJ_per_mol": 3.27
+    },
+    "ionization_energy_kJ_per_mol": 1681.0,
+    "isotopes_count": 18
+  },
+  {
+    "atomic_number": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "atomic_weight": 20.1797,
+    "electron_config": "[He] 2s2 2p6",
+    "series": "Noble",
+    "melting_point_K": 24.56,
+    "boiling_point_K": 27.07,
+    "electronegativity": null,
+    "valence": 0,
+    "oxidation_states": null,
+    "atomic_radius": {
+      "calculated_pm": 38,
+      "covalent_pm": 69,
+      "van_der_waals_pm": 154
+    },
+    "discovery_year": 1898,
+    "density_g_per_cm3": 0.9,
+    "electron_affinity_kJ_per_mol": 0.0,
+    "thermal_conductivity_W_per_mK": 0.0491,
+    "abundance_percent": {
+      "universe": 0.13,
+      "crust": 3e-7,
+      "ocean": 1.2e-8,
+      "human_body": null
+    },
+    "heat": {
+      "specific_J_per_kgK": 1030.0,
+      "fusion_kJ_per_mol": 0.34,
+      "vaporization_kJ_per_mol": 1.75
+    },
+    "ionization_energy_kJ_per_mol": 2080.7,
+    "isotopes_count": 19
+  },
+  {
+    "atomic_number": 11,
+    "symbol": "Na",
+    "name": "Sodium",
+    "atomic_weight": 22.98976928,
+    "electron_config": "[Ne] 3s1",
+    "series": "Alkali",
+    "melting_point_K": 370.87,
+    "boiling_point_K": 1156.0,
+    "electronegativity": 0.93,
+    "valence": 1,
+    "oxidation_states": ["-1", "1c"],
+    "atomic_radius": {
+      "calculated_pm": 190,
+      "covalent_pm": 154,
+      "van_der_waals_pm": 227
+    },
+    "discovery_year": 1807,
+    "density_g_per_cm3": 968.0,
+    "electron_affinity_kJ_per_mol": 52.8,
+    "thermal_conductivity_W_per_mK": 140.0,
+    "abundance_percent": {
+      "universe": 0.002,
+      "crust": 2.3,
+      "ocean": 1.1,
+      "human_body": 0.14
+    },
+    "heat": {
+      "specific_J_per_kgK": 1230.0,
+      "fusion_kJ_per_mol": 2.6,
+      "vaporization_kJ_per_mol": 97.7
+    },
+    "ionization_energy_kJ_per_mol": 495.8,
+    "isotopes_count": 20
+  },
+  {
+    "atomic_number": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "atomic_weight": 24.305,
+    "electron_config": "[Ne] 3s2",
+    "series": "Alkaline",
+    "melting_point_K": 923.0,
+    "boiling_point_K": 1363.0,
+    "electronegativity": 1.31,
+    "valence": 2,
+    "oxidation_states": ["1", "2c"],
+    "atomic_radius": {
+      "calculated_pm": 145,
+      "covalent_pm": 130,
+      "van_der_waals_pm": 173
+    },
+    "discovery_year": 1755,
+    "density_g_per_cm3": 1738.0,
+    "electron_affinity_kJ_per_mol": 0.0,
+    "thermal_conductivity_W_per_mK": 160.0,
+    "abundance_percent": {
+      "universe": 0.06,
+      "crust": 2.9,
+      "ocean": 0.13,
+      "human_body": 0.027
+    },
+    "heat": {
+      "specific_J_per_kgK": 1020.0,
+      "fusion_kJ_per_mol": 8.7,
+      "vaporization_kJ_per_mol": 128.0
+    },
+    "ionization_energy_kJ_per_mol": 737.7,
+    "isotopes_count": 22
+  },
+  {
+    "atomic_number": 13,
+    "symbol": "Al",
+    "name": "Aluminium",
+    "atomic_weight": 26.9815384,
+    "electron_config": "[Ne] 3s2 3p1",
+    "series": "Poor",
+    "melting_point_K": 933.47,
+    "boiling_point_K": 2792.0,
+    "electronegativity": 1.61,
+    "valence": 3,
+    "oxidation_states": ["1", "2", "3c"],
+    "atomic_radius": {
+      "calculated_pm": 118,
+      "covalent_pm": 118,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": 1825,
+    "density_g_per_cm3": 2700.0,
+    "electron_affinity_kJ_per_mol": 42.5,
+    "thermal_conductivity_W_per_mK": 235.0,
+    "abundance_percent": {
+      "universe": 0.005,
+      "crust": 8.1,
+      "ocean": 5e-7,
+      "human_body": 9e-5
+    },
+    "heat": {
+      "specific_J_per_kgK": 904.0,
+      "fusion_kJ_per_mol": 10.7,
+      "vaporization_kJ_per_mol": 293.0
+    },
+    "ionization_energy_kJ_per_mol": 577.5,
+    "isotopes_count": 22
+  },
+  {
+    "atomic_number": 14,
+    "symbol": "Si",
+    "name": "Silicon",
+    "atomic_weight": 28.085,
+    "electron_config": "[Ne] 3s2 3p2",
+    "series": "Metalloid",
+    "melting_point_K": 1687.0,
+    "boiling_point_K": 3173.0,
+    "electronegativity": 1.9,
+    "valence": 4,
+    "oxidation_states": ["-4c", "-3", "-2", "-1", "1", "2", "3", "4c"],
+    "atomic_radius": {
+      "calculated_pm": 111,
+      "covalent_pm": 111,
+      "van_der_waals_pm": 210
+    },
+    "discovery_year": 1824,
+    "density_g_per_cm3": 2330.0,
+    "electron_affinity_kJ_per_mol": 133.6,
+    "thermal_conductivity_W_per_mK": 150.0,
+    "abundance_percent": {
+      "universe": 0.07,
+      "crust": 27.0,
+      "ocean": 0.0001,
+      "human_body": 0.026
+    },
+    "heat": {
+      "specific_J_per_kgK": 710.0,
+      "fusion_kJ_per_mol": 50.2,
+      "vaporization_kJ_per_mol": 359.0
+    },
+    "ionization_energy_kJ_per_mol": 786.5,
+    "isotopes_count": 23
+  },
+  {
+    "atomic_number": 15,
+    "symbol": "P",
+    "name": "Phosphorus",
+    "atomic_weight": 30.973761998,
+    "electron_config": "[Ne] 3s2 3p3",
+    "series": "Nonmetal",
+    "melting_point_K": 317.3,
+    "boiling_point_K": 553.6,
+    "electronegativity": 2.19,
+    "valence": 5,
+    "oxidation_states": ["-3c", "-2", "-1", "1", "2", "3c", "4", "5c"],
+    "atomic_radius": {
+      "calculated_pm": 98,
+      "covalent_pm": 106,
+      "van_der_waals_pm": 180
+    },
+    "discovery_year": 1669,
+    "density_g_per_cm3": 1823.0,
+    "electron_affinity_kJ_per_mol": 72.0,
+    "thermal_conductivity_W_per_mK": 0.236,
+    "abundance_percent": {
+      "universe": 0.0007,
+      "crust": 0.099,
+      "ocean": 7e-6,
+      "human_body": 1.1
+    },
+    "heat": {
+      "specific_J_per_kgK": 769.7,
+      "fusion_kJ_per_mol": 0.64,
+      "vaporization_kJ_per_mol": 12.4
+    },
+    "ionization_energy_kJ_per_mol": 1011.8,
+    "isotopes_count": 23
+  },
+  {
+    "atomic_number": 16,
+    "symbol": "S",
+    "name": "Sulfur",
+    "atomic_weight": 32.06,
+    "electron_config": "[Ne] 3s2 3p4",
+    "series": "Nonmetal",
+    "melting_point_K": 388.36,
+    "boiling_point_K": 717.87,
+    "electronegativity": 2.58,
+    "valence": 6,
+    "oxidation_states": ["-2c", "-1", "1", "2c", "3", "4c", "5", "6c"],
+    "atomic_radius": {
+      "calculated_pm": 88,
+      "covalent_pm": 102,
+      "van_der_waals_pm": 180
+    },
+    "discovery_year": -499,
+    "density_g_per_cm3": 1960.0,
+    "electron_affinity_kJ_per_mol": 200.0,
+    "thermal_conductivity_W_per_mK": 0.205,
+    "abundance_percent": {
+      "universe": 0.05,
+      "crust": 0.042,
+      "ocean": 0.093,
+      "human_body": 0.2
+    },
+    "heat": {
+      "specific_J_per_kgK": 705.0,
+      "fusion_kJ_per_mol": 1.73,
+      "vaporization_kJ_per_mol": 9.8
+    },
+    "ionization_energy_kJ_per_mol": 999.6,
+    "isotopes_count": 24
+  },
+  {
+    "atomic_number": 17,
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "atomic_weight": 35.45,
+    "electron_config": "[Ne] 3s2 3p5",
+    "series": "Nonmetal",
+    "melting_point_K": 171.6,
+    "boiling_point_K": 239.11,
+    "electronegativity": 3.16,
+    "valence": 7,
+    "oxidation_states": ["-1c", "1c", "2", "3c", "4", "5c", "6", "7c"],
+    "atomic_radius": {
+      "calculated_pm": 79,
+      "covalent_pm": 99,
+      "van_der_waals_pm": 175
+    },
+    "discovery_year": 1774,
+    "density_g_per_cm3": 3.214,
+    "electron_affinity_kJ_per_mol": 349.0,
+    "thermal_conductivity_W_per_mK": 0.0089,
+    "abundance_percent": {
+      "universe": 0.0001,
+      "crust": 0.017,
+      "ocean": 2.0,
+      "human_body": 0.12
+    },
+    "heat": {
+      "specific_J_per_kgK": 478.2,
+      "fusion_kJ_per_mol": 3.2,
+      "vaporization_kJ_per_mol": 10.2
+    },
+    "ionization_energy_kJ_per_mol": 1251.2,
+    "isotopes_count": 24
+  },
+  {
+    "atomic_number": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "atomic_weight": 39.948,
+    "electron_config": "[Ne] 3s2 3p6",
+    "series": "Noble",
+    "melting_point_K": 83.8,
+    "boiling_point_K": 87.3,
+    "electronegativity": null,
+    "valence": 2,
+    "oxidation_states": null,
+    "atomic_radius": {
+      "calculated_pm": 71,
+      "covalent_pm": 97,
+      "van_der_waals_pm": 188
+    },
+    "discovery_year": 1894,
+    "density_g_per_cm3": 1.784,
+    "electron_affinity_kJ_per_mol": 0.0,
+    "thermal_conductivity_W_per_mK": 0.01772,
+    "abundance_percent": {
+      "universe": 0.02,
+      "crust": 0.00015,
+      "ocean": 4.5e-5,
+      "human_body": null
+    },
+    "heat": {
+      "specific_J_per_kgK": 520.33,
+      "fusion_kJ_per_mol": 1.18,
+      "vaporization_kJ_per_mol": 6.5
+    },
+    "ionization_energy_kJ_per_mol": 1520.6,
+    "isotopes_count": 24
+  },
+  {
+    "atomic_number": 19,
+    "symbol": "K",
+    "name": "Potassium",
+    "atomic_weight": 39.0983,
+    "electron_config": "[Ar] 4s1",
+    "series": "Alkali",
+    "melting_point_K": 336.53,
+    "boiling_point_K": 1032.0,
+    "electronegativity": 0.82,
+    "valence": 1,
+    "oxidation_states": ["-1", "1c"],
+    "atomic_radius": {
+      "calculated_pm": 243,
+      "covalent_pm": 196,
+      "van_der_waals_pm": 275
+    },
+    "discovery_year": 1807,
+    "density_g_per_cm3": 856.0,
+    "electron_affinity_kJ_per_mol": 48.4,
+    "thermal_conductivity_W_per_mK": 100.0,
+    "abundance_percent": {
+      "universe": 0.0003,
+      "crust": 1.5,
+      "ocean": 0.042,
+      "human_body": 0.2
+    },
+    "heat": {
+      "specific_J_per_kgK": 757.0,
+      "fusion_kJ_per_mol": 2.33,
+      "vaporization_kJ_per_mol": 76.9
+    },
+    "ionization_energy_kJ_per_mol": 418.8,
+    "isotopes_count": 24
+  },
+  {
+    "atomic_number": 20,
+    "symbol": "Ca",
+    "name": "Calcium",
+    "atomic_weight": 40.078,
+    "electron_config": "[Ar] 4s2",
+    "series": "Alkaline",
+    "melting_point_K": 1115.0,
+    "boiling_point_K": 1757.0,
+    "electronegativity": 1.0,
+    "valence": 2,
+    "oxidation_states": ["1", "2c"],
+    "atomic_radius": {
+      "calculated_pm": 194,
+      "covalent_pm": 174,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": 1808,
+    "density_g_per_cm3": 1550.0,
+    "electron_affinity_kJ_per_mol": 2.37,
+    "thermal_conductivity_W_per_mK": 200.0,
+    "abundance_percent": {
+      "universe": 0.007,
+      "crust": 5.0,
+      "ocean": 0.00042,
+      "human_body": 1.4
+    },
+    "heat": {
+      "specific_J_per_kgK": 631.0,
+      "fusion_kJ_per_mol": 8.54,
+      "vaporization_kJ_per_mol": 155.0
+    },
+    "ionization_energy_kJ_per_mol": 589.8,
+    "isotopes_count": 24
+  },
+  {
+    "atomic_number": 21,
+    "symbol": "Sc",
+    "name": "Scandium",
+    "atomic_weight": 44.955907,
+    "electron_config": "[Ar] 4s2 3d1",
+    "series": "Transition",
+    "melting_point_K": 1814.0,
+    "boiling_point_K": 3103.0,
+    "electronegativity": 1.36,
+    "valence": 3,
+    "oxidation_states": ["1", "2", "3c"],
+    "atomic_radius": {
+      "calculated_pm": 184,
+      "covalent_pm": 144,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": 1879,
+    "density_g_per_cm3": 2985.0,
+    "electron_affinity_kJ_per_mol": 18.1,
+    "thermal_conductivity_W_per_mK": 16.0,
+    "abundance_percent": {
+      "universe": 3e-6,
+      "crust": 0.0026,
+      "ocean": 1.5e-10,
+      "human_body": null
+    },
+    "heat": {
+      "specific_J_per_kgK": 567.0,
+      "fusion_kJ_per_mol": 16.0,
+      "vaporization_kJ_per_mol": 318.0
+    },
+    "ionization_energy_kJ_per_mol": 633.1,
+    "isotopes_count": 25
+  },
+  {
+    "atomic_number": 22,
+    "symbol": "Ti",
+    "name": "Titanium",
+    "atomic_weight": 47.867,
+    "electron_config": "[Ar] 4s2 3d2",
+    "series": "Transition",
+    "melting_point_K": 1941.0,
+    "boiling_point_K": 3560.0,
+    "electronegativity": 1.54,
+    "valence": 4,
+    "oxidation_states": ["-1", "2", "3", "4c"],
+    "atomic_radius": {
+      "calculated_pm": 176,
+      "covalent_pm": 136,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": 1791,
+    "density_g_per_cm3": 4507.0,
+    "electron_affinity_kJ_per_mol": 7.6,
+    "thermal_conductivity_W_per_mK": 22.0,
+    "abundance_percent": {
+      "universe": 0.0003,
+      "crust": 0.66,
+      "ocean": 1e-7,
+      "human_body": null
+    },
+    "heat": {
+      "specific_J_per_kgK": 520.0,
+      "fusion_kJ_per_mol": 18.7,
+      "vaporization_kJ_per_mol": 425.0
+    },
+    "ionization_energy_kJ_per_mol": 658.8,
+    "isotopes_count": 26
+  },
+  {
+    "atomic_number": 23,
+    "symbol": "V",
+    "name": "Vanadium",
+    "atomic_weight": 50.9415,
+    "electron_config": "[Ar] 4s2 3d3",
+    "series": "Transition",
+    "melting_point_K": 2183.0,
+    "boiling_point_K": 3680.0,
+    "electronegativity": 1.63,
+    "valence": 5,
+    "oxidation_states": ["-1", "1", "2", "3", "4", "5c"],
+    "atomic_radius": {
+      "calculated_pm": 171,
+      "covalent_pm": 125,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": 1801,
+    "density_g_per_cm3": 6110.0,
+    "electron_affinity_kJ_per_mol": 50.6,
+    "thermal_conductivity_W_per_mK": 31.0,
+    "abundance_percent": {
+      "universe": 0.0001,
+      "crust": 0.019,
+      "ocean": 1.5e-7,
+      "human_body": 3e-6
+    },
+    "heat": {
+      "specific_J_per_kgK": 489.0,
+      "fusion_kJ_per_mol": 22.8,
+      "vaporization_kJ_per_mol": 453.0
+    },
+    "ionization_energy_kJ_per_mol": 650.9,
+    "isotopes_count": 26
+  },
+  {
+    "atomic_number": 24,
+    "symbol": "Cr",
+    "name": "Chromium",
+    "atomic_weight": 51.9961,
+    "electron_config": "[Ar] 4s1 3d5",
+    "series": "Transition",
+    "melting_point_K": 2180.0,
+    "boiling_point_K": 2944.0,
+    "electronegativity": 1.66,
+    "valence": 6,
+    "oxidation_states": ["-2", "-1", "1", "2", "3c", "4", "5", "6c"],
+    "atomic_radius": {
+      "calculated_pm": 166,
+      "covalent_pm": 127,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": 1797,
+    "density_g_per_cm3": 7190.0,
+    "electron_affinity_kJ_per_mol": 64.3,
+    "thermal_conductivity_W_per_mK": 94.0,
+    "abundance_percent": {
+      "universe": 0.0015,
+      "crust": 0.014,
+      "ocean": 6e-8,
+      "human_body": 3e-6
+    },
+    "heat": {
+      "specific_J_per_kgK": 448.0,
+      "fusion_kJ_per_mol": 20.5,
+      "vaporization_kJ_per_mol": 339.0
+    },
+    "ionization_energy_kJ_per_mol": 652.9,
+    "isotopes_count": 26
+  },
+  {
+    "atomic_number": 25,
+    "symbol": "Mn",
+    "name": "Manganese",
+    "atomic_weight": 54.938043,
+    "electron_config": "[Ar] 4s2 3d5",
+    "series": "Transition",
+    "melting_point_K": 1519.0,
+    "boiling_point_K": 2334.0,
+    "electronegativity": 1.55,
+    "valence": 7,
+    "oxidation_states": [
+      "-3",
+      "-2",
+      "-1",
+      "1",
+      "2c",
+      "3",
+      "4c",
+      "5",
+      "6",
+      "7c"
+    ],
+    "atomic_radius": {
+      "calculated_pm": 161,
+      "covalent_pm": 139,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": 1774,
+    "density_g_per_cm3": 7470.0,
+    "electron_affinity_kJ_per_mol": 0.0,
+    "thermal_conductivity_W_per_mK": 7.8,
+    "abundance_percent": {
+      "universe": 0.0008,
+      "crust": 0.11,
+      "ocean": 2e-7,
+      "human_body": 2e-5
+    },
+    "heat": {
+      "specific_J_per_kgK": 479.0,
+      "fusion_kJ_per_mol": 13.2,
+      "vaporization_kJ_per_mol": 220.0
+    },
+    "ionization_energy_kJ_per_mol": 717.3,
+    "isotopes_count": 26
+  },
+  {
+    "atomic_number": 26,
+    "symbol": "Fe",
+    "name": "Iron",
+    "atomic_weight": 55.845,
+    "electron_config": "[Ar] 4s2 3d6",
+    "series": "Transition",
+    "melting_point_K": 1811.0,
+    "boiling_point_K": 3134.0,
+    "electronegativity": 1.83,
+    "valence": 6,
+    "oxidation_states": ["-2", "-1", "1", "2c", "3c", "4", "5", "6"],
+    "atomic_radius": {
+      "calculated_pm": 156,
+      "covalent_pm": 125,
+      "van_der_waals_pm": null
+    },
+    "discovery_year": -1999,
+    "density_g_per_cm3": 7874.0,
+    "electron_affinity_kJ_per_mol": 15.7,
+    "thermal_conductivity_W_per_mK": 80.0,
+    "abundance_percent": {
+      "universe": 0.11,
+      "crust": 6.3,
+      "ocean": 3e-7,
+      "human_body": 0.006
+    },
+    "heat": {
+      "specific_J_per_kgK": 449.0,
+      "fusion_kJ_per_mol": 13.8,
+      "vaporization_kJ_per_mol": 347.0
+    },
+    "ionization_energy_kJ_per_mol": 762.5,
+    "isotopes_count": 28
+  }
+]
